@@ -1,3 +1,4 @@
+; AutoHotKey v2
 ; Directives
 #SingleInstance force
 CoordMode "Mouse", "Screen"
